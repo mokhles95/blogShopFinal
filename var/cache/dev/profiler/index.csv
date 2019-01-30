@@ -1,0 +1,17 @@
+75d22c,127.0.0.1,GET,http://localhost:8000/,1548855001,,200
+676799,127.0.0.1,GET,http://localhost:8000/panier,1548855012,43b46e,200
+43b46e,127.0.0.1,GET,http://localhost:8000/panier,1548855012,,404
+c23158,127.0.0.1,GET,http://localhost:8000/taille/read,1548855046,,200
+aeddbf,127.0.0.1,GET,http://localhost:8000/authorizedcomments,1548855060,,200
+59a6e2,127.0.0.1,POST,http://localhost:8000/authorizedcomments,1548855063,,200
+444c21,127.0.0.1,POST,http://localhost:8000/authorizedcomments,1548855070,,200
+b291f3,127.0.0.1,GET,http://localhost:8000/Article/afficher,1548855090,,200
+5fd76c,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855093,057d3b,200
+057d3b,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855093,,500
+5bb85d,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855156,c6a885,200
+c6a885,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855156,,500
+8dd05d,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855312,,200
+0cf9a8,127.0.0.1,POST,http://localhost:8000/Article/ajouter,1548855370,,302
+cb23b7,127.0.0.1,GET,http://localhost:8000/Article/afficher,1548855372,94e2fd,200
+94e2fd,127.0.0.1,GET,http://localhost:8000/Article/afficher,1548855372,,500
+044957,127.0.0.1,GET,http://localhost:8000/Article/ajouter,1548855376,,200
