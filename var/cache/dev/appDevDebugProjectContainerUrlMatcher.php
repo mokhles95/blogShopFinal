@@ -107,6 +107,21 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         }
 
+        // home_page12
+        if ('/index1' === $pathinfo) {
+            return array (  '_controller' => 'FrontBundle\\Controller\\PagesController::indexAction',  '_route' => 'home_page12',);
+        }
+
+        // detai_produit
+        if ('/detailProduit' === $pathinfo) {
+            return array (  '_controller' => 'FrontBundle\\Controller\\DetailProduitController::readAction',  '_route' => 'detai_produit',);
+        }
+
+        // delete_Produit
+        if (0 === strpos($pathinfo, '/delete') && preg_match('#^/delete/(?P<id>[^/]++)$#sD', $pathinfo, $matches)) {
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'delete_Produit')), array (  '_controller' => 'MokhlesBundle\\Controller\\ProduitController::deleteAction',));
+        }
+
         // entity_user_afficher
         if ('/user/afficher' === $pathinfo) {
             return array (  '_controller' => 'YosrBundle:User:afficher',  '_route' => 'entity_user_afficher',);
@@ -503,11 +518,6 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
             return $ret;
         }
         not_mokhles_homepage:
-
-        // delete_Produit
-        if (0 === strpos($pathinfo, '/delete') && preg_match('#^/delete/(?P<id>[^/]++)$#sD', $pathinfo, $matches)) {
-            return $this->mergeDefaults(array_replace($matches, array('_route' => 'delete_Produit')), array (  '_controller' => 'MokhlesBundle\\Controller\\ProduitController::deleteAction',));
-        }
 
         if (0 === strpos($pathinfo, '/taille')) {
             // read_Taille

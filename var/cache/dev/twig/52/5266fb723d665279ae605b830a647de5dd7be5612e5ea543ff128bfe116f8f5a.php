@@ -53,6 +53,6 @@ class __TwigTemplate_41a9e2b937370ec68f3eb6b3d2b9822097563a82815770c2f6592c591e2
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "YosrBundle:Default:index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle/Resources/views/Default/index.html.twig");
+", "YosrBundle:Default:index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle/Resources/views/Default/index.html.twig");
     }
 }

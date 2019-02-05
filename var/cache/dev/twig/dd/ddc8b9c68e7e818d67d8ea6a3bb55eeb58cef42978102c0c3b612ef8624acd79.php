@@ -57,6 +57,6 @@ class __TwigTemplate_6cd82297d2467077a602d0b0f9254ea3f6ba4c126ed01024fa3c38e9c2a
         return new Twig_Source("<?php foreach (\$form as \$child) : ?>
     <?php echo \$view['form']->row(\$child) ?>
 <?php endforeach; ?>
-", "@Framework/Form/form_rows.html.php", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\form_rows.html.php");
+", "@Framework/Form/form_rows.html.php", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\form_rows.html.php");
     }
 }

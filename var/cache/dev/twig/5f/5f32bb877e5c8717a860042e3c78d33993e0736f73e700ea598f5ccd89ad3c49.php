@@ -84,6 +84,6 @@ class __TwigTemplate_fa9b6e77e099c444e4ee25f776697ed5aaf5d4dbc23688a9f0df37b7af5
     {% endfor %}
     </ul>
 </div>
-", "FOSUserBundle:Group:list_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle/Resources/views/Group/list_content.html.twig");
+", "FOSUserBundle:Group:list_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle/Resources/views/Group/list_content.html.twig");
     }
 }

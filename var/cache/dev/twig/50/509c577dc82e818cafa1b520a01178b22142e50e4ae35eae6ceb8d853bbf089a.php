@@ -1160,6 +1160,6 @@ class __TwigTemplate_cdf0796c3ce7adda36991f9dc118ecfede443bc5ec2b6786873513107f4
         </table>
     {% endif %}
 {% endblock %}
-", "@Security/Collector/security.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\SecurityBundle\\Resources\\views\\Collector\\security.html.twig");
+", "@Security/Collector/security.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\SecurityBundle\\Resources\\views\\Collector\\security.html.twig");
     }
 }

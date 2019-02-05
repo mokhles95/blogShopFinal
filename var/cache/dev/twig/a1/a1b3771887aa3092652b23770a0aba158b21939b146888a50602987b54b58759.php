@@ -162,6 +162,6 @@ class __TwigTemplate_6c25a9d22f0f8c4f1d6e107b3aee6a80a57616216ac0161a063af08e563
         {% endif %}
     </div>
 {% endblock %}
-", "WebProfilerBundle:Profiler:open.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/open.html.twig");
+", "WebProfilerBundle:Profiler:open.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/open.html.twig");
     }
 }

@@ -61,6 +61,6 @@ class __TwigTemplate_2f6913f56edb06a0e3b2e6f141bff5b704b2b3bda1b2878f58d8a668fe7
     <?php echo \$view['form']->errors(\$form) ?>
     <?php echo \$view['form']->widget(\$form) ?>
 </div>
-", "@Framework/Form/form_row.html.php", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\form_row.html.php");
+", "@Framework/Form/form_row.html.php", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\form_row.html.php");
     }
 }

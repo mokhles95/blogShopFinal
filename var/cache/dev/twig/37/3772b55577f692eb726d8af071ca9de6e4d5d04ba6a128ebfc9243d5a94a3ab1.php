@@ -83,6 +83,6 @@ class __TwigTemplate_b7b1ccb3d2a6cce6e38077ccd1ba5b4a707229742b5cc052ea08cb6cdfd
         <input type=\"submit\" value=\"{{ 'change_password.submit'|trans }}\" />
     </div>
 {{ form_end(form) }}
-", "@FOSUser/ChangePassword/change_password_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\ChangePassword\\change_password_content.html.twig");
+", "@FOSUser/ChangePassword/change_password_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\ChangePassword\\change_password_content.html.twig");
     }
 }

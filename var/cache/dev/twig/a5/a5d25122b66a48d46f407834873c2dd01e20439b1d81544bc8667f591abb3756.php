@@ -2222,6 +2222,6 @@ table.logs .metadata {
         margin-left: 2px;
     }
 }
-", "WebProfilerBundle:Profiler:profiler.css.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/profiler.css.twig");
+", "WebProfilerBundle:Profiler:profiler.css.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/profiler.css.twig");
     }
 }

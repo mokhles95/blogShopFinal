@@ -28,6 +28,7 @@ class AppKernel extends Kernel
             new JMS\Payment\CoreBundle\JMSPaymentCoreBundle(),
             new JMS\Payment\PaypalBundle\JMSPaymentPaypalBundle(),
             new Vich\UploaderBundle\VichUploaderBundle(),
+            new FrontBundle\FrontBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

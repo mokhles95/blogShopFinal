@@ -94,6 +94,6 @@ class __TwigTemplate_85888272d128cde1d8d782bbe73f551afe6f42fa31d0cba4f47867b94b5
   {{ include('@Twig/Exception/trace.txt.twig', { trace: trace }, with_context = false) }}
 {% endfor %}
 {% endif %}
-", "TwigBundle:Exception:traces.txt.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/traces.txt.twig");
+", "TwigBundle:Exception:traces.txt.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/traces.txt.twig");
     }
 }

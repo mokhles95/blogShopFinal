@@ -70,6 +70,6 @@ class __TwigTemplate_942b3cd3dd80b5f263363ee9956bcee8fe7145445210e583c574af10e6b
     public function getSourceContext()
     {
         return new Twig_Source("{% block panel '' %}
-", "WebProfilerBundle:Profiler:ajax_layout.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/ajax_layout.html.twig");
+", "WebProfilerBundle:Profiler:ajax_layout.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/ajax_layout.html.twig");
     }
 }

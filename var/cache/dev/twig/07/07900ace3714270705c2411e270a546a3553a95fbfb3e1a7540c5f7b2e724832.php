@@ -87,6 +87,6 @@ class __TwigTemplate_355563b5e889e1ac0f426e8a3bc199b0469356ee97debd6203c648afc7f
         </div>
     </div>
 </div>
-", "WebProfilerBundle:Profiler:header.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/header.html.twig");
+", "WebProfilerBundle:Profiler:header.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/header.html.twig");
     }
 }

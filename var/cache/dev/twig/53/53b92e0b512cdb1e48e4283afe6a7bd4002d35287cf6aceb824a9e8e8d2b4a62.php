@@ -69,6 +69,6 @@ class __TwigTemplate_3b9ad94ea9c2e02544abd0394749d54c671e4c5fd102aa57a19717ca31a
         return new Twig_Source("<?xml version=\"1.0\" encoding=\"{{ _charset }}\" ?>
 
 <error code=\"{{ status_code }}\" message=\"{{ status_text }}\" />
-", "TwigBundle:Exception:error.xml.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.xml.twig");
+", "TwigBundle:Exception:error.xml.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.xml.twig");
     }
 }

@@ -386,6 +386,6 @@ class __TwigTemplate_ee88bb42f821a47519203907acd4aac46d01351f2dcf871ce3392641c7b
 
 
 
-", "WassimBundle:CommentingSystem:afficher.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\WassimBundle/Resources/views/CommentingSystem/afficher.html.twig");
+", "WassimBundle:CommentingSystem:afficher.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\WassimBundle/Resources/views/CommentingSystem/afficher.html.twig");
     }
 }

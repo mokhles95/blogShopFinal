@@ -1,0 +1,10 @@
+home_page12:
+    path:     /index1
+    defaults: { _controller: FrontBundle:Pages:index }
+
+detai_produit:
+    path:     /detailProduit
+    defaults: { _controller: FrontBundle:DetailProduit:read }
+
+
+

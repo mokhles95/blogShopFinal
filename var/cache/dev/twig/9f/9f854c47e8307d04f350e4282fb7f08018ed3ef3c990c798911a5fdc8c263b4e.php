@@ -185,6 +185,6 @@ class __TwigTemplate_849a0c9d62c68e24e9d52474427be20e0a7a1bbf69ddf2dda6f40935d2d
         })|raw }}
     </div>
 {% endif %}
-", "TwigBundle:Exception:trace.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/trace.html.twig");
+", "TwigBundle:Exception:trace.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/trace.html.twig");
     }
 }

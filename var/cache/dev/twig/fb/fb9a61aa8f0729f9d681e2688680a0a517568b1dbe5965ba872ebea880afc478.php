@@ -168,6 +168,6 @@ class __TwigTemplate_8ed8d2186b13f95bd9c2006b791ad2ea51d4d713ce09dd22d1daec287f6
         {% block javascripts %}{% endblock %}
     </body>
 </html>
-", "::base.html.twig", "C:\\wamp64\\www\\BlogShop\\app/Resources\\views/base.html.twig");
+", "::base.html.twig", "C:\\wamp64\\www\\blogShopFinal\\app/Resources\\views/base.html.twig");
     }
 }

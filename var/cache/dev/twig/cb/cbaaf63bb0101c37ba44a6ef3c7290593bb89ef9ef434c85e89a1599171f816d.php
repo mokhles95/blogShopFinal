@@ -69,6 +69,6 @@ class __TwigTemplate_164efb1c6776131ae22880e3e5861f6e178d5a7cd949181e88fa3d6b9c8
 {{ status_code }} {{ status_text }}
 
 */
-", "TwigBundle:Exception:error.css.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.css.twig");
+", "TwigBundle:Exception:error.css.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.css.twig");
     }
 }

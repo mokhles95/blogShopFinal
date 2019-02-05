@@ -191,6 +191,6 @@ class __TwigTemplate_35a5b9018baab5b09b475d081e2838e900292cbee7fb4ceda6a3492e161
         </div>
     </body>
 </html>
-", "@FOSUser/layout.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\layout.html.twig");
+", "@FOSUser/layout.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\layout.html.twig");
     }
 }

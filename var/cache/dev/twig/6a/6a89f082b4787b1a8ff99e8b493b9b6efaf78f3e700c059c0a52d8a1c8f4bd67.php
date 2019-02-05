@@ -92,6 +92,6 @@ class __TwigTemplate_5a4e53961376ccb60b36fa9c7c30fd1d5e85eb30653589ed49709bce72b
     {% if link|default(false) %}</a>{% endif %}
         <div class=\"sf-toolbar-info\">{{ text|default('') }}</div>
 </div>
-", "WebProfilerBundle:Profiler:toolbar_item.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/toolbar_item.html.twig");
+", "WebProfilerBundle:Profiler:toolbar_item.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/toolbar_item.html.twig");
     }
 }

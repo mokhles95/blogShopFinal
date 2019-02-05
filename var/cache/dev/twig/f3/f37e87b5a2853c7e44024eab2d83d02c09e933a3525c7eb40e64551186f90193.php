@@ -1232,6 +1232,6 @@ class __TwigTemplate_d9c05af278f9c96e8f2313efc2a7118c1d042e58926fd802aa6390c0553
         </span>
     {%- endif %}
 {%- endblock form_errors %}
-", "bootstrap_4_layout.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bridge\\Twig\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
+", "bootstrap_4_layout.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bridge\\Twig\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
     }
 }

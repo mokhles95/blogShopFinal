@@ -77,6 +77,6 @@ class __TwigTemplate_d60472cc233adc5e8186a90f6d6923b8b2dcdaead2173c4ad9194d5f06c
     <p>{{ 'profile.show.username'|trans }}: {{ user.username }}</p>
     <p>{{ 'profile.show.email'|trans }}: {{ user.email }}</p>
 </div>
-", "@FOSUser/Profile/show_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Profile\\show_content.html.twig");
+", "@FOSUser/Profile/show_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Profile\\show_content.html.twig");
     }
 }

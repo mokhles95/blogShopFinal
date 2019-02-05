@@ -99,6 +99,6 @@ class __TwigTemplate_9f7236c895cc455fc3e29acc7cfd746d1d94eb9f83fb77010e4c5034241
         </div>
     </body>
 </html>
-", "@Twig/Exception/error.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle\\Resources\\views\\Exception\\error.html.twig");
+", "@Twig/Exception/error.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle\\Resources\\views\\Exception\\error.html.twig");
     }
 }

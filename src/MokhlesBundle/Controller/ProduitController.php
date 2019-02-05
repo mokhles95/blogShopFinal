@@ -22,6 +22,7 @@ class ProduitController extends Controller
         $Produit=$this->getDoctrine()->getRepository( Produit::class)->findAll();
 
         return $this->render('@Mokhles/Default/read.html.twig',array('produits'=>$Produit));
+
     }
 
     public function createAction(Request $request)

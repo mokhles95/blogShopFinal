@@ -49,6 +49,6 @@ class __TwigTemplate_7a498b5ee07da6fa2b04000a2baf44522d7b18bf49c47154c89cbeca1ac
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Mokhles/Taille/update.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle\\Resources\\views\\Taille\\update.html.twig");
+        return new Twig_Source("", "@Mokhles/Taille/update.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle\\Resources\\views\\Taille\\update.html.twig");
     }
 }

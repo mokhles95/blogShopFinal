@@ -53,6 +53,6 @@ class __TwigTemplate_f3dcaa89954bd4e26480f1f50d1c60ee574af19854b1680c7fb86b0a136
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "@Seif/Default/index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\SeifBundle\\Resources\\views\\Default\\index.html.twig");
+", "@Seif/Default/index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\SeifBundle\\Resources\\views\\Default\\index.html.twig");
     }
 }

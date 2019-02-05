@@ -146,6 +146,6 @@ class __TwigTemplate_e0d84bb6117fef21a560626226bcd2851e7018c86d4bf428b83a7d4fcfd
     {% endfor %}
 
 </table>
-", "MokhlesBundle:Taille:read.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle/Resources/views/Taille/read.html.twig");
+", "MokhlesBundle:Taille:read.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle/Resources/views/Taille/read.html.twig");
     }
 }

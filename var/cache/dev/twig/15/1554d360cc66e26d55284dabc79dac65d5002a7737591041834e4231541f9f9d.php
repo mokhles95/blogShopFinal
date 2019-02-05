@@ -98,6 +98,6 @@ class __TwigTemplate_42f450fa75c07207f277db89f7129d9fa5afe977bd3891b388d2041c93e
     </exception>
 {% endfor %}
 </error>
-", "TwigBundle:Exception:exception.xml.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/exception.xml.twig");
+", "TwigBundle:Exception:exception.xml.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/exception.xml.twig");
     }
 }

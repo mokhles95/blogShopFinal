@@ -120,6 +120,30 @@ class Produit
 
     private $etat="disponible";
 
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="photoP", type="string", length=255)
+     */
+
+    private $photoP;
+
+    /**
+     * @return string
+     */
+    public function getPhotoP()
+    {
+        return $this->photoP;
+    }
+
+    /**
+     * @param string $photoP
+     */
+    public function setPhotoP($photoP)
+    {
+        $this->photoP = $photoP;
+    }
+
 
 
 
@@ -130,6 +154,31 @@ class Produit
      */
 
     private $prix;
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="nrb_vente", type="integer")
+     */
+
+    private $nbr_vente;
+
+    /**
+     * @return int
+     */
+    public function getNbrVente()
+    {
+        return $this->nbr_vente;
+    }
+
+    /**
+     * @param int $nbr_vente
+     */
+    public function setNbrVente($nbr_vente)
+    {
+        $this->nbr_vente = $nbr_vente;
+    }
+
+
 
 
     /**
@@ -143,6 +192,7 @@ class Produit
      * @ORM\JoinColumn(name="wishList_id",referencedColumnName="id")
      */
     private $wishList;
+
 
 
     private $photos;

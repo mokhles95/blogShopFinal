@@ -83,6 +83,6 @@ class __TwigTemplate_54a3ba2301e54fb8dce033722ef058d57c1d5c9d84eedd119daa8135715
         <input type=\"submit\" value=\"{{ 'group.new.submit'|trans }}\" />
     </div>
 {{ form_end(form) }}
-", "@FOSUser/Group/new_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\new_content.html.twig");
+", "@FOSUser/Group/new_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\new_content.html.twig");
     }
 }

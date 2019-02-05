@@ -134,6 +134,6 @@ class __TwigTemplate_b62311bec34e45c10f0c45ff52fd320e64fd1d6c878152b80f5a7893441
     <br><h3><a href=\"{{ path('entity_Article_ajouter') }}\" >ajouter Article</a></h3>
      <h3><a href=\"{{ path('entity_Article_rechercher') }}\" >rechercher Article</a></h3>
 </center>
-", "@Yosr/Article/afficher.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle\\Resources\\views\\Article\\afficher.html.twig");
+", "@Yosr/Article/afficher.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle\\Resources\\views\\Article\\afficher.html.twig");
     }
 }

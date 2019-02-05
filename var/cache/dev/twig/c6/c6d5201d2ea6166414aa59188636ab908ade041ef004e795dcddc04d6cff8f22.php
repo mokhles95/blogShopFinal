@@ -157,6 +157,6 @@ class __TwigTemplate_7b66418182ed9dfefad111e3b1f6ce6f01e9f094de1dbd3b7ec3517bc90
 
 
     </div>
-{% endblock %}", "WassimBundle:Default:index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\WassimBundle/Resources/views/Default/index.html.twig");
+{% endblock %}", "WassimBundle:Default:index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\WassimBundle/Resources/views/Default/index.html.twig");
     }
 }

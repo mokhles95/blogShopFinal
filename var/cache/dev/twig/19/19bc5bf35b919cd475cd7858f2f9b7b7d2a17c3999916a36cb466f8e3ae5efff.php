@@ -53,6 +53,6 @@ class __TwigTemplate_2302fbdf8d4991e5b3d8d54aa6b214e77640c84c9e4a37b37a237a5b9c1
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "@Sofiene/Default/index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\SofieneBundle\\Resources\\views\\Default\\index.html.twig");
+", "@Sofiene/Default/index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\SofieneBundle\\Resources\\views\\Default\\index.html.twig");
     }
 }

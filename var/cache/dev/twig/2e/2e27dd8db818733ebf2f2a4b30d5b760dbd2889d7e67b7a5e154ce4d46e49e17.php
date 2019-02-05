@@ -2042,6 +2042,6 @@ class __TwigTemplate_55188794633a3ab1b7e3240d7c65d5ced07e2f57f31dd5b1cd431d7da3a
         {{ tree.form_tree_details(childName, childData, forms_by_hash) }}
     {% endfor %}
 {% endmacro %}
-", "WebProfilerBundle:Collector:form.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Collector/form.html.twig");
+", "WebProfilerBundle:Collector:form.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Collector/form.html.twig");
     }
 }

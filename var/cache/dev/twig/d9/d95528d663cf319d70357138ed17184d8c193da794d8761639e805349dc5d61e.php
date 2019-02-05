@@ -85,6 +85,6 @@ class __TwigTemplate_a3b69184ae8cc4289659408fa2b17cf5a6b73c92ff6b1ef9e64a510f2c8
 {% block fos_user_content %}
 {% include \"@FOSUser/Group/new_content.html.twig\" %}
 {% endblock fos_user_content %}
-", "@FOSUser/Group/new.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\new.html.twig");
+", "@FOSUser/Group/new.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\new.html.twig");
     }
 }

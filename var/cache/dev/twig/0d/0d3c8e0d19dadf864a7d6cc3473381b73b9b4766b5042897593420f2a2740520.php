@@ -400,6 +400,6 @@ class __TwigTemplate_309e3bb8ead3edaa7ce04e662411f851730bf56c60be77808bf9f10668a
         </div>
     {% endfor %}
 {% endblock %}
-", "DebugBundle:Profiler:dump.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\DebugBundle/Resources/views/Profiler/dump.html.twig");
+", "DebugBundle:Profiler:dump.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\DebugBundle/Resources/views/Profiler/dump.html.twig");
     }
 }

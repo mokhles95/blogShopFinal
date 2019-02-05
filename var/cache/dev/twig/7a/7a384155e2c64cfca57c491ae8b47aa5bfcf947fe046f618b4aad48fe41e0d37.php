@@ -69,6 +69,6 @@ class __TwigTemplate_c7a41d25536d9f14011b3f9a9b2b4441fe346c8d526a97f4a0758488451
 {{ status_code }} {{ status_text }}
 
 */
-", "TwigBundle:Exception:error.js.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.js.twig");
+", "TwigBundle:Exception:error.js.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\TwigBundle/Resources/views/Exception/error.js.twig");
     }
 }

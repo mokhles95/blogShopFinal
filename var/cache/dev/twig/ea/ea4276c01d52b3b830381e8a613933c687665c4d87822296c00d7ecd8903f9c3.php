@@ -53,6 +53,6 @@ class __TwigTemplate_962a83911b67dcf2d64ffab59c1ffb2cda7f3d90a8f0c3fb3a76ecd7266
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "@Entity/Default/index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\EntityBundle\\Resources\\views\\Default\\index.html.twig");
+", "@Entity/Default/index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\EntityBundle\\Resources\\views\\Default\\index.html.twig");
     }
 }

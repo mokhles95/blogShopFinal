@@ -65,6 +65,6 @@ class __TwigTemplate_c8a3452e2116954148cdf582856993282716e1d5877684c88b72fed7326
         return new Twig_Source("<center>
     <h3 style=\"color: #A43E4C\">Modifier l'article</h3>
     {{ form(Form) }}
-</center>", "YosrBundle:Article:modifier.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle/Resources/views/Article/modifier.html.twig");
+</center>", "YosrBundle:Article:modifier.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle/Resources/views/Article/modifier.html.twig");
     }
 }

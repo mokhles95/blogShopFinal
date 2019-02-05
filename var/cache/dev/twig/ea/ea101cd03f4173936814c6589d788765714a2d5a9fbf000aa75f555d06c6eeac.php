@@ -87,6 +87,6 @@ class __TwigTemplate_ec913f67d2fa78ff1d51bfbf211e4cb318151d0bd0cd34df59c554568a4
     </fieldset>
 </center>
 </body>
-</html>", "MokhlesBundle:Default:update.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle/Resources/views/Default/update.html.twig");
+</html>", "MokhlesBundle:Default:update.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle/Resources/views/Default/update.html.twig");
     }
 }

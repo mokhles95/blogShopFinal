@@ -267,6 +267,6 @@ class __TwigTemplate_ad4ea1be6769359fe4a3575fafedc8e743461b18ae980027ba8cdf2668a
     </div>
 {% endspaceless %}
 {% endblock %}
-", "@VichUploader/Form/fields.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\vich\\uploader-bundle\\Resources\\views\\Form\\fields.html.twig");
+", "@VichUploader/Form/fields.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\vich\\uploader-bundle\\Resources\\views\\Form\\fields.html.twig");
     }
 }

@@ -53,6 +53,6 @@ class __TwigTemplate_6288d8cd1aaa053496661e77798463f0e8359d083609d11247db15045aa
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "MokhlesBundle:Default:index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle/Resources/views/Default/index.html.twig");
+", "MokhlesBundle:Default:index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle/Resources/views/Default/index.html.twig");
     }
 }

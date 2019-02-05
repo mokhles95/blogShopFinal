@@ -390,6 +390,6 @@ class __TwigTemplate_3697c91a93012bd41ef08f4e140f1df7025c5b44d101a8ba0e7eec34e25
         );
     })();
 /*]]>*/</script>
-", "WebProfilerBundle:Profiler:toolbar_js.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/toolbar_js.html.twig");
+", "WebProfilerBundle:Profiler:toolbar_js.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\WebProfilerBundle/Resources/views/Profiler/toolbar_js.html.twig");
     }
 }

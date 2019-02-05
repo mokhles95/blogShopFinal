@@ -216,6 +216,6 @@ class __TwigTemplate_6d6c217abf46bc174aae9a80fe4533b875c5b511f1fdb48a88f080537b6
 {% block javascripts %}{% endblock %}
 </body>
 </html>
-", "WassimBundle::commentingbase.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\WassimBundle/Resources/views/commentingbase.html.twig");
+", "WassimBundle::commentingbase.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\WassimBundle/Resources/views/commentingbase.html.twig");
     }
 }

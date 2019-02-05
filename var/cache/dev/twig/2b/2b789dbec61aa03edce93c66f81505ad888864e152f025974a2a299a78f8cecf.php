@@ -131,6 +131,6 @@ class __TwigTemplate_e398407df6b9fe27727411f0ad02cb03ecbda48b6eed8fc5f1df8dc763c
 {% endautoescape %}
 {% endblock %}
 {% block body_html %}{% endblock %}
-", "FOSUserBundle:Registration:email.txt.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle/Resources/views/Registration/email.txt.twig");
+", "FOSUserBundle:Registration:email.txt.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle/Resources/views/Registration/email.txt.twig");
     }
 }

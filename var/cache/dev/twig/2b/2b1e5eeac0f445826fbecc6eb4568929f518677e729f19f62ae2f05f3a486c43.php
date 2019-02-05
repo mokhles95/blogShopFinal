@@ -120,6 +120,6 @@ class __TwigTemplate_4182f44308902bd5a84fafbd51c6c31920a766cccd4f885d804140a863d
     <br><h3><a href=\"{{ path('entity_CategArticle_ajouter') }}\" >ajouter Article</a></h3>
     <h3><a href=\"{{ path('entity_CategArticle_rechercher') }}\" >rechercher Article</a></h3>
 </center>
-", "@Yosr/CategoryArticle/afficher.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle\\Resources\\views\\CategoryArticle\\afficher.html.twig");
+", "@Yosr/CategoryArticle/afficher.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle\\Resources\\views\\CategoryArticle\\afficher.html.twig");
     }
 }

@@ -53,6 +53,6 @@ class __TwigTemplate_75b8ada94101aae2fd07e29d38353c8386822c16c15eb3416c6268effe3
     public function getSourceContext()
     {
         return new Twig_Source("Hello World!
-", "ChaimaBundle:Default:index.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\ChaimaBundle/Resources/views/Default/index.html.twig");
+", "ChaimaBundle:Default:index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\ChaimaBundle/Resources/views/Default/index.html.twig");
     }
 }

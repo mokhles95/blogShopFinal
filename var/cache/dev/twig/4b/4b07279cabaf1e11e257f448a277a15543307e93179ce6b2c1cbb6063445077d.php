@@ -56,6 +56,6 @@ class __TwigTemplate_4faeec79e7cbac18f1b32a915a26d77594062c0fc3c63e1f7e9a602633f
 
     public function getSourceContext()
     {
-        return new Twig_Source("{{ form (form) }}", "MokhlesBundle:Taille:create.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle/Resources/views/Taille/create.html.twig");
+        return new Twig_Source("{{ form (form) }}", "MokhlesBundle:Taille:create.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle/Resources/views/Taille/create.html.twig");
     }
 }

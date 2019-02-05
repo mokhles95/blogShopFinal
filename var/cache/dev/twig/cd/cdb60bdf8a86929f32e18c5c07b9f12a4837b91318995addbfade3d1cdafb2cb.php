@@ -65,6 +65,6 @@ class __TwigTemplate_8653fa76d3531ebc487395f36751f6f94da80d8f42ffcdb5ed11303d6e0
         return new Twig_Source("<center>
 <h3 style=\"color: #A43E4C\">Ajout d'un categorie</h3>
 {{ form(Form) }}
-</center>", "@Yosr/CategoryArticle/ajouter.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle\\Resources\\views\\CategoryArticle\\ajouter.html.twig");
+</center>", "@Yosr/CategoryArticle/ajouter.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle\\Resources\\views\\CategoryArticle\\ajouter.html.twig");
     }
 }

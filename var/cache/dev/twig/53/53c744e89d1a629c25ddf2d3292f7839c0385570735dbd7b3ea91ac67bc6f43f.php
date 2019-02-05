@@ -49,6 +49,6 @@ class __TwigTemplate_5ac0800a5b43959c949f2ba58ed385b31829284a588966fcecc2c733275
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Framework/Form/button_label.html.php", "C:\\wamp64\\www\\BlogShop\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\button_label.html.php");
+        return new Twig_Source("", "@Framework/Form/button_label.html.php", "C:\\wamp64\\www\\blogShopFinal\\vendor\\symfony\\symfony\\src\\Symfony\\Bundle\\FrameworkBundle\\Resources\\views\\Form\\button_label.html.php");
     }
 }

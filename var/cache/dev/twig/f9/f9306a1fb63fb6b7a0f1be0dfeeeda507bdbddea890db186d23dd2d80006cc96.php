@@ -83,6 +83,6 @@ class __TwigTemplate_68c5d8b4210155546f394a45ef1d9b65d5c796bec721af36bdc4540ff94
         <input type=\"submit\" value=\"{{ 'profile.edit.submit'|trans }}\" />
     </div>
 {{ form_end(form) }}
-", "@FOSUser/Profile/edit_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Profile\\edit_content.html.twig");
+", "@FOSUser/Profile/edit_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Profile\\edit_content.html.twig");
     }
 }

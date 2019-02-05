@@ -254,6 +254,6 @@ class __TwigTemplate_04053fb78b54553a0ccc4dc52cfc43f1a8f9f8568a0144cd9fcd384facc
     }
 </style>
 {% endblock %}
-", "default/index.html.twig", "C:\\wamp64\\www\\BlogShop\\app\\Resources\\views\\default\\index.html.twig");
+", "default/index.html.twig", "C:\\wamp64\\www\\blogShopFinal\\app\\Resources\\views\\default\\index.html.twig");
     }
 }

@@ -65,6 +65,6 @@ class __TwigTemplate_e69024adbd40b0f55796224507b3ea4e0094500ebf9ef102b470a72ff5e
         return new Twig_Source("<center>
     <h3 style=\"color: #A43E4C\">Modifier Categorie</h3>
     {{ form(Form) }}
-</center>", "YosrBundle:CategoryArticle:modifier.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle/Resources/views/CategoryArticle/modifier.html.twig");
+</center>", "YosrBundle:CategoryArticle:modifier.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle/Resources/views/CategoryArticle/modifier.html.twig");
     }
 }

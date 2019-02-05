@@ -83,6 +83,6 @@ class __TwigTemplate_72cbaebe3a865ae5be9533ae7484fb2f40274e745a47690bb9f4995bbac
         <input type=\"submit\" value=\"{{ 'group.edit.submit'|trans }}\" />
     </div>
 {{ form_end(form) }}
-", "@FOSUser/Group/edit_content.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\edit_content.html.twig");
+", "@FOSUser/Group/edit_content.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle\\Resources\\views\\Group\\edit_content.html.twig");
     }
 }

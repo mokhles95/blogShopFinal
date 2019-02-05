@@ -65,6 +65,6 @@ class __TwigTemplate_7808ed7f933f562c3dc148fa8eeae4fa2ca1db66eaa0a497ddb87b47419
         return new Twig_Source("<center>
 <h3 style=\"color: #A43E4C\">Ajout d'un article</h3>
 {{ form(Form) }}
-</center>", "@Yosr/Article/ajouter.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle\\Resources\\views\\Article\\ajouter.html.twig");
+</center>", "@Yosr/Article/ajouter.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle\\Resources\\views\\Article\\ajouter.html.twig");
     }
 }

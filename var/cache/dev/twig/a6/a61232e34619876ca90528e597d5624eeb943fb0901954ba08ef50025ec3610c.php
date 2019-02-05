@@ -124,6 +124,6 @@ class __TwigTemplate_577a061761f22cf8be646feefb659e20f92f0a8885e240ff187e15b3bf8
     {% endfor %}
 </center>
 
-", "YosrBundle:Article:chercher.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\YosrBundle/Resources/views/Article/chercher.html.twig");
+", "YosrBundle:Article:chercher.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\YosrBundle/Resources/views/Article/chercher.html.twig");
     }
 }

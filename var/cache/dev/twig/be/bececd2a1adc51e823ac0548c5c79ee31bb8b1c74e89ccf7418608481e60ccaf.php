@@ -49,6 +49,6 @@ class __TwigTemplate_5549aba228664e17106726ebf797a5df9385679870261cc11c6d2c951aa
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Mokhles/Photo/delete.html.twig", "C:\\wamp64\\www\\BlogShop\\src\\MokhlesBundle\\Resources\\views\\Photo\\delete.html.twig");
+        return new Twig_Source("", "@Mokhles/Photo/delete.html.twig", "C:\\wamp64\\www\\blogShopFinal\\src\\MokhlesBundle\\Resources\\views\\Photo\\delete.html.twig");
     }
 }

@@ -85,6 +85,6 @@ class __TwigTemplate_fcd8a44229722c9c34dbcc317cada9db4826e810533aa45b4b07deb312d
 {% block fos_user_content %}
 {% include \"@FOSUser/ChangePassword/change_password_content.html.twig\" %}
 {% endblock fos_user_content %}
-", "FOSUserBundle:ChangePassword:change_password.html.twig", "C:\\wamp64\\www\\BlogShop\\vendor\\friendsofsymfony\\user-bundle/Resources/views/ChangePassword/change_password.html.twig");
+", "FOSUserBundle:ChangePassword:change_password.html.twig", "C:\\wamp64\\www\\blogShopFinal\\vendor\\friendsofsymfony\\user-bundle/Resources/views/ChangePassword/change_password.html.twig");
     }
 }
