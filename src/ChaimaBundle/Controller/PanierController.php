@@ -16,7 +16,6 @@ use EntityBundle\Entity\Produit;
 use EntityBundle\Entity\DetailCommande;
 use EntityBundle\Entity\User;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;
-use Skies\QRcodeBundle\Generator\Generator;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
@@ -82,7 +81,7 @@ class PanierController extends Controller
         if (!$session->has('panier')) $session->set('panier',array());
 
         $em = $this->getDoctrine()->getManager();
-        $produits = $em->getRepository('EntityBundle:Produit')->findBy(array_keys($session->get('panier')));
+        $produits = $em->getRepository('EntityBundle:Produit')->findOneBy(array_keys($session->get('panier')));
 
 
         return $this->render('Panier/panier.html.twig', array(
