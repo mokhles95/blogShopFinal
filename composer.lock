@@ -1271,28 +1271,28 @@
         },
         {
             "name": "jms/payment-paypal-bundle",
-            "version": "1.1.2",
+            "version": "1.2.0",
             "target-dir": "JMS/Payment/PaypalBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/JMSPaymentPaypalBundle.git",
-                "reference": "8986862ac94ddfbbbb47473a7bb8f96ad14f595c"
+                "reference": "7151eaf50f4cdc04273346e2327209e54c2f33de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/JMSPaymentPaypalBundle/zipball/8986862ac94ddfbbbb47473a7bb8f96ad14f595c",
-                "reference": "8986862ac94ddfbbbb47473a7bb8f96ad14f595c",
+                "url": "https://api.github.com/repos/schmittjoh/JMSPaymentPaypalBundle/zipball/7151eaf50f4cdc04273346e2327209e54c2f33de",
+                "reference": "7151eaf50f4cdc04273346e2327209e54c2f33de",
                 "shasum": ""
             },
             "require": {
                 "jms/payment-core-bundle": "~1.0",
-                "php": ">=5.3.2",
-                "symfony/browser-kit": "~2.0|~3.0",
-                "symfony/config": "~2.0|~3.0",
-                "symfony/dependency-injection": "~2.0|~3.0",
-                "symfony/form": "~2.0|~3.0",
-                "symfony/http-foundation": "~2.0|~3.0",
-                "symfony/http-kernel": "~2.0|~3.0"
+                "php": ">=5.6",
+                "symfony/browser-kit": ">=2.3 <5.0",
+                "symfony/config": ">=2.3 <5.0",
+                "symfony/dependency-injection": ">=2.3 <5.0",
+                "symfony/form": ">=2.3 <5.0",
+                "symfony/http-foundation": ">=2.3 <5.0",
+                "symfony/http-kernel": ">=2.3 <5.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "~4.8|~5.4",
@@ -1320,7 +1320,7 @@
                 "payment",
                 "paypal"
             ],
-            "time": "2017-04-09T12:34:22+00:00"
+            "time": "2019-01-03T18:38:20+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -2433,16 +2433,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.4.21",
+            "version": "v3.4.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "c7a57e0bcc3c57ae697f072b3e862487b6fd0030"
+                "reference": "907d4d1d1a419663c3c37cfb33dd65c48fa62d1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/c7a57e0bcc3c57ae697f072b3e862487b6fd0030",
-                "reference": "c7a57e0bcc3c57ae697f072b3e862487b6fd0030",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/907d4d1d1a419663c3c37cfb33dd65c48fa62d1b",
+                "reference": "907d4d1d1a419663c3c37cfb33dd65c48fa62d1b",
                 "shasum": ""
             },
             "require": {
@@ -2584,7 +2584,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2019-01-06T15:54:26+00:00"
+            "time": "2019-02-03T12:23:08+00:00"
         },
         {
             "name": "twig/twig",
@@ -2793,16 +2793,16 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.4.21",
+            "version": "v3.4.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
-                "reference": "5dab0d4b2ac99ab22b447b615fdfdc10ec4af3d5"
+                "reference": "6a2148bfc6ca0016846a32bdc55a317274283709"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/5dab0d4b2ac99ab22b447b615fdfdc10ec4af3d5",
-                "reference": "5dab0d4b2ac99ab22b447b615fdfdc10ec4af3d5",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/6a2148bfc6ca0016846a32bdc55a317274283709",
+                "reference": "6a2148bfc6ca0016846a32bdc55a317274283709",
                 "shasum": ""
             },
             "require": {
@@ -2855,7 +2855,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2019-01-01T13:45:19+00:00"
+            "time": "2019-01-30T13:30:37+00:00"
         }
     ],
     "aliases": [],
