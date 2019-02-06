@@ -84,21 +84,50 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                     </ul>
                 </div>
             </div>
-            <div class=\"left_banner left-sidebar-widget mt_30 mb_40\"> <a href=\"#\"><img src=\"images/left1.jpg\" alt=\"Left Banner\" class=\"img-responsive\" /></a> </div>
+            <div class=\"left_banner left-sidebar-widget mt_30 mb_40\"> <a href=\"#\"><img src=\"";
+        // line 41
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/left1.jpg"), "html", null, true);
+        echo "\" alt=\"Left Banner\" class=\"img-responsive\" /></a> </div>
             <div class=\"left-special left-sidebar-widget mb_50\">
                 <div class=\"heading-part mb_10 \">
                     <h2 class=\"main_title\">Top Products</h2>
                 </div>
-                <div id=\"left-special\" class=\"owl-carousel\">
+                <div id=\"left-special\" class=\"owl-carousel\">F
                     <ul class=\"row \">
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
         // line 51
-        echo "images/product/product3.jpg";
-        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
-        echo "images/product/product3-1.jpg";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 72
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3.jpg"), "html", null, true);
         echo "\"> </a> </div>
                                 </div>
                             </div>
@@ -121,10 +150,38 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
                                     <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
-        // line 72
-        echo "images/product/product3.jpg";
+        // line 93
+        echo "images/product/product5.jpg";
         echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
-        echo "images/product/product3.jpg";
+        echo "images/product/product5-1.jpg";
+        echo "\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class=\"row \">
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 116
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product6.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product6-1.jpg"), "html", null, true);
         echo "\"> </a> </div>
                                 </div>
                             </div>
@@ -146,7 +203,38 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product5.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product5-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
+        // line 137
+        echo "images/product/product7.jpg";
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset";
+        echo "images/product/product7-1.jpg";
+        echo "\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 158
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("mages/product/product8.jpg"), "html", null, true);
+        echo "i\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product8-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -169,7 +257,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product6.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product6-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 181
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product9.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product9-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -190,7 +283,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product7.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product7-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 202
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product10.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product10-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -211,72 +309,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product8.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product8-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class=\"row \">
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product9.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product9-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product10.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product10-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product1.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product1-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 223
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -299,7 +337,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product2.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product2-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 246
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product2.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product2-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -320,7 +363,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product3.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product3-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 267
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -341,7 +389,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product4.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product4-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        // line 288
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product4.jpg"), "html", null, true);
+        echo "\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product4-1.jpg"), "html", null, true);
+        echo "\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -366,28 +419,66 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
         <div class=\"col-sm-8 col-lg-9 mtb_20\">
             <div class=\"row mt_10 \">
                 <div class=\"col-md-6\">
-                    <div><a class=\"thumbnails\"> <img data-name=\"product_image\" src=\"images/product/product1.jpg\" alt=\"\" /></a></div>
+                    <div><a class=\"thumbnails\"> <img data-name=\"product_image\" src=\"";
+        // line 313
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                     <div id=\"product-thumbnail\" class=\"owl-carousel\">
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product1.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product1.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 316
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product2.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product2.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 319
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product3.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product3.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=";
+        // line 322
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product3.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product4.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product4.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 325
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product4.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product5.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product5.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 328
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product5.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product6.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product6.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 331
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product6.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product7.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product7.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"";
+        // line 334
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product7.jpg"), "html", null, true);
+        echo "\" data-fancybox=\"group1\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"\" /></a></div>
                         </div>
                     </div>
                 </div>
@@ -514,7 +605,12 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <div class=\"product-layout  product-grid related-pro  owl-carousel mb_50 \">
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"images/product/product7.jpg\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"images/product/product7-1.jpg\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"";
+        // line 461
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product7.jpg"), "html", null, true);
+        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product7-1.jpg"), "html", null, true);
+        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
                                             <div class=\"quickview\"><a href=\"#\"><span>Quick View</span></a></div>
@@ -586,11 +682,11 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset";
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"";
         // line 533
-        echo "images/product/product10.jpg";
-        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset";
-        echo "images/product/product10.jpg";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product10.jpg"), "html", null, true);
+        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product10.jpg"), "html", null, true);
         echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
@@ -615,11 +711,11 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset";
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"";
         // line 557
-        echo "images/product/product1.jpg";
-        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset";
-        echo "images/product/product1-1.jpg";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1.jpg"), "html", null, true);
+        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product1-1.jpg"), "html", null, true);
         echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
@@ -644,11 +740,11 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">{
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset";
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"";
         // line 581
-        echo "images/product/product2.jpg";
-        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset";
-        echo "images/product/product2-1.jpg";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product2.jpg"), "html", null, true);
+        echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"";
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("images/product/product2-1.jpg"), "html", null, true);
         echo "\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
@@ -746,7 +842,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
 
     public function getDebugInfo()
     {
-        return array (  719 => 625,  715 => 624,  711 => 623,  707 => 622,  703 => 621,  699 => 620,  695 => 619,  691 => 618,  649 => 581,  620 => 557,  591 => 533,  125 => 72,  99 => 51,  49 => 3,  40 => 2,  11 => 1,);
+        return array (  815 => 625,  811 => 624,  807 => 623,  803 => 622,  799 => 621,  795 => 620,  791 => 619,  787 => 618,  745 => 581,  716 => 557,  687 => 533,  610 => 461,  478 => 334,  470 => 331,  462 => 328,  454 => 325,  446 => 322,  438 => 319,  430 => 316,  424 => 313,  394 => 288,  368 => 267,  342 => 246,  314 => 223,  288 => 202,  262 => 181,  234 => 158,  208 => 137,  182 => 116,  154 => 93,  128 => 72,  102 => 51,  89 => 41,  49 => 3,  40 => 2,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -799,17 +895,17 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                     </ul>
                 </div>
             </div>
-            <div class=\"left_banner left-sidebar-widget mt_30 mb_40\"> <a href=\"#\"><img src=\"images/left1.jpg\" alt=\"Left Banner\" class=\"img-responsive\" /></a> </div>
+            <div class=\"left_banner left-sidebar-widget mt_30 mb_40\"> <a href=\"#\"><img src=\"{{ asset('images/left1.jpg') }}\" alt=\"Left Banner\" class=\"img-responsive\" /></a> </div>
             <div class=\"left-special left-sidebar-widget mb_50\">
                 <div class=\"heading-part mb_10 \">
                     <h2 class=\"main_title\">Top Products</h2>
                 </div>
-                <div id=\"left-special\" class=\"owl-carousel\">
+                <div id=\"left-special\" class=\"owl-carousel\">F
                     <ul class=\"row \">
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product3.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product3-1.jpg') }}\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{ asset('images/product/product3.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product3-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -830,7 +926,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product3.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product3.jpg') }}\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product3.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product3.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -851,7 +947,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product5.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product5-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product5.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product5-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -874,7 +970,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product6.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product6-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product6.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{ asset('images/product/product6-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -895,7 +991,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product7.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product7-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product7.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"asset{{ ('images/product/product7-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -916,72 +1012,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product8.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product8-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class=\"row \">
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product9.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product9-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product10.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product10-1.jpg\"> </a> </div>
-                                </div>
-                            </div>
-                            <div class=\"col-xs-8\">
-                                <div class=\"caption product-detail\">
-                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
-                                    <div class=\"rating\">
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
-                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
-                                    </div>
-                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
-                      </span>
-                                </div>
-                            </div>
-                        </li>
-                        <li class=\"item product-layout-left mb_20\">
-                            <div class=\"product-list col-xs-4\">
-                                <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product1.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product1-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('mages/product/product8.jpg') }}i\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product8-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -1004,7 +1035,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product2.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product2-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product9.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{ asset('images/product/product9-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -1025,7 +1056,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product3.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product3-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product10.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product10-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -1046,7 +1077,72 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <li class=\"item product-layout-left mb_20\">
                             <div class=\"product-list col-xs-4\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product4.jpg\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"images/product/product4-1.jpg\"> </a> </div>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{ asset('images/product/product1.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product1-1.jpg') }}\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class=\"row \">
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product2.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product2-1.jpg') }}\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product3.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product3-1.jpg') }}\"> </a> </div>
+                                </div>
+                            </div>
+                            <div class=\"col-xs-8\">
+                                <div class=\"caption product-detail\">
+                                    <h6 class=\"product-name\"><a href=\"#\">New LCDScreen and HD Video Recording</a></h6>
+                                    <div class=\"rating\">
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-1x\"></i></span>
+                                        <span class=\"fa fa-stack\"><i class=\"fa fa-star-o fa-stack-1x\"></i><i class=\"fa fa-star fa-stack-x\"></i></span>
+                                    </div>
+                                    <span class=\"price\"><span class=\"amount\"><span class=\"currencySymbol\">\$</span>70.00</span>
+                      </span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class=\"item product-layout-left mb_20\">
+                            <div class=\"product-list col-xs-4\">
+                                <div class=\"product-thumb\">
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product4.jpg') }}\"> <img class=\"img-responsive\" title=\"iPod Classic\" alt=\"iPod Classic\" src=\"{{asset ('images/product/product4-1.jpg') }}\"> </a> </div>
                                 </div>
                             </div>
                             <div class=\"col-xs-8\">
@@ -1071,28 +1167,28 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
         <div class=\"col-sm-8 col-lg-9 mtb_20\">
             <div class=\"row mt_10 \">
                 <div class=\"col-md-6\">
-                    <div><a class=\"thumbnails\"> <img data-name=\"product_image\" src=\"images/product/product1.jpg\" alt=\"\" /></a></div>
+                    <div><a class=\"thumbnails\"> <img data-name=\"product_image\" src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                     <div id=\"product-thumbnail\" class=\"owl-carousel\">
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product1.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product1.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product1.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product2.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product2.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product1.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product3.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product3.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href={{asset ('images/product/product3.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product4.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product4.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product4.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product5.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product5.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product5.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product6.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product6.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product6.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                         <div class=\"item\">
-                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"images/product/product7.jpg\" data-fancybox=\"group1\"> <img src=\"images/product/product7.jpg\" alt=\"\" /></a></div>
+                            <div class=\"image-additional\"><a class=\"thumbnail\" href=\"{{asset ('images/product/product7.jpg') }}\" data-fancybox=\"group1\"> <img src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"\" /></a></div>
                         </div>
                     </div>
                 </div>
@@ -1219,7 +1315,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                         <div class=\"product-layout  product-grid related-pro  owl-carousel mb_50 \">
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"images/product/product7.jpg\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"images/product/product7-1.jpg\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"{{ asset('images/product/product7.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"{{asset ('images/product/product7-1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
                                             <div class=\"quickview\"><a href=\"#\"><span>Quick View</span></a></div>
@@ -1291,7 +1387,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset{{ ('images/product/product10.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset{{ ('images/product/product10.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"{{ asset('images/product/product10.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"{{asset ('images/product/product10.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
                                             <div class=\"quickview\"><a href=\"#\"><span>Quick View</span></a></div>
@@ -1315,7 +1411,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset{{ ('images/product/product1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset{{ ('images/product/product1-1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"{{ asset('images/product/product1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"{{ asset('images/product/product1-1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
                                             <div class=\"quickview\"><a href=\"#\"><span>Quick View</span></a></div>
@@ -1339,7 +1435,7 @@ class __TwigTemplate_b96bd0496f2474a00ff4288567ae05ce85172fbd0ee9fd949ee4046e779
                             </div>
                             <div class=\"item\">
                                 <div class=\"product-thumb\">{
-                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"asset{{ ('images/product/product2.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"asset{{ ('images/product/product2-1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
+                                    <div class=\"image product-imageblock\"> <a href=\"product_detail_page.html\"> <img data-name=\"product_image\" src=\"{{ asset('images/product/product2.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> <img src=\"{{asset ('images/product/product2-1.jpg') }}\" alt=\"iPod Classic\" title=\"iPod Classic\" class=\"img-responsive\"> </a>
                                         <div class=\"button-group text-center\">
                                             <div class=\"wishlist\"><a href=\"#\"><span>wishlist</span></a></div>
                                             <div class=\"quickview\"><a href=\"#\"><span>Quick View</span></a></div>
