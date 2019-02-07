@@ -124,5 +124,12 @@ class User
     {
         return $this->birthdate;
     }
+
+    public function __toString()
+    {
+        return (string)$this->getNom();
+        // TODO: Implement __toString() method.
+    }
+
 }
 
