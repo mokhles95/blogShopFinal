@@ -81,7 +81,7 @@ class PanierController extends Controller
         if (!$session->has('panier')) $session->set('panier',array());
 
         $em = $this->getDoctrine()->getManager();
-        $produits = $em->getRepository('EntityBundle:Produit')->findOneBy(array_keys($session->get('panier')));
+        $produits = $em->getRepository('EntityBundle:Produit')->findArray(array_keys($session->get('panier')));
 
 
         return $this->render('Panier/panier.html.twig', array(
@@ -124,8 +124,10 @@ class PanierController extends Controller
         $commande = new Commande();
         $em2 = $this->getDoctrine()->getManager();
         $commande->setEtat('Pending');
-       // $user = $this->container->get('security.token_storage')->getToken()->getUser();
-            $user=$session->get('id');
+       $u = $this->container->get('security.token_storage')->getToken()->getUser();
+            //$user=$session->get('id');
+        $user=$em->getRepository('EntityBundle:User')->findOneBy(array('id'=>$u));
+
 
         $d= date_create() ;
         $commande->setDate($d);
